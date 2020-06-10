@@ -1,0 +1,1 @@
+# use nginx empty_gif + openresty for statis
